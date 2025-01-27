@@ -1,0 +1,1 @@
+# SQL_basic_certificate_test_by_hackerrank
